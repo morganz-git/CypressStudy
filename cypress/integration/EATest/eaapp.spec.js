@@ -2,7 +2,7 @@
 
 describe("", function () {
     before("Login to application", function () {
-        cy.visit("http://eaapp.somee.com/");
+        cy.visit("/");
         //sharing context
         cy.fixture("eauser").as("user");
         // fill the username and password

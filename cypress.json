@@ -1,3 +1,7 @@
 {
-    "watchForFileChanges": false
+  "watchForFileChanges": false,
+  "baseUrl": "http://eaapp.somee.com/",
+  "evn": {
+  },
+  "testFiles": "**/*.feature"
 }
