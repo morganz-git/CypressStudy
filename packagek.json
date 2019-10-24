@@ -1,5 +1,6 @@
 {
   "cypress-cucumber-preprocessor": {
-    "nonGlobalStepDefinitions": true
+    "nonGlobalStepDefinitions": true,
+    "step_definitions": "cypress/integration/Cucumber/EATest/step_definitions"
   }
 }
