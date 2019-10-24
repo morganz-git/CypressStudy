@@ -1,4 +1,9 @@
-import {Given, Then} from "cypress-cucumber-preprocessor/steps";
+const {
+    Before,
+    After,
+    Given,
+    Then
+} = require("cypress-cucumber-preprocessor/steps");
 
 // var {Given} = require('cucumber');
 Given(/^I visit EA site$/, function () {

@@ -1,0 +1,13 @@
+{
+  "name": "CypressStudy",
+  "version": "1.0.0",
+  "dependencies": {
+    "cypress-cucumber-preprocessor": "latest"
+  },
+  "devDependencies": {
+    "cypress": "^3.5.0"
+  },
+  "cypress-cucumber-preprocessor": {
+    "step_definitions": "cypress/integration/Cucumber/EATest/step_definitions"
+  }
+}
