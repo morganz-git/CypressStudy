@@ -17,7 +17,8 @@ Given(/^I click login link$/, function () {
 Given(/^I login as user with "([^"]*)" and "([^"]*)"$/, function (username, password) {
     //fill the username and password
     cy.get('#UserName').type(username);
-    cy.get('#Password').type(password);
+    //log 的主要作用就是用来屏蔽不方便显示的东西
+    cy.get('#Password').type(password, {log: false});
 
     //click the login button
     cy.get('.btn').click({force: true});

@@ -5,7 +5,8 @@
     "cypress-cucumber-preprocessor": "latest"
   },
   "devDependencies": {
-    "cypress": "^3.5.0"
+    "cypress": "^3.5.0",
+    "cypress-dark": "^1.7.14"
   },
   "cypress-cucumber-preprocessor": {
     "step_definitions": "cypress/integration/Cucumber/EATest/step_definitions"
