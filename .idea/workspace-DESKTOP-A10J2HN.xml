@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ce02ded-4453-4830-9fa7-a6988017b5a3" name="Default Changelist" comment="0">
+      <change afterPath="$PROJECT_DIR$/cypress/integration/Cucumber/EATest/EATest.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/integration/Cucumber/EATest/step_definitions/EATestiing.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/cypress" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/cypress" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/cypress.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/cypress.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cypress/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cypress/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cypress/types/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/cypress/types/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packagek.json" beforeDir="false" afterPath="$PROJECT_DIR$/packagek.json" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Q3GEWmOXt4lSgL5xnsYQWmoRDs" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JSON" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="ts.external.directory.path" value="F:\Program Files\JetBrains\WebStorm 2019.2.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\OneDrive\OneDrive - Morgan\OneDrive\CypressStudy\cypress\integration\Cucumber\EATest" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\OneDrive\OneDrive - Morgan\OneDrive\CypressStudy\cypress\integration\EATest" />
+      <recent name="F:\OneDrive\OneDrive - Morgan\OneDrive\CypressStudy" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="EATest.spec.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="EATest.spec.js" working-dir="$PROJECT_DIR$/cypress/integration/EATest">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.EATest.spec.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ce02ded-4453-4830-9fa7-a6988017b5a3" name="Default Changelist" comment="" />
+      <created>1566991755296</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566991755296</updated>
+      <workItem from="1566991761374" duration="1582000" />
+      <workItem from="1567037672523" duration="3915000" />
+      <workItem from="1567145601288" duration="2742000" />
+      <workItem from="1567149688957" duration="484000" />
+      <workItem from="1567150383445" duration="3584000" />
+      <workItem from="1567155950266" duration="5830000" />
+      <workItem from="1567169073536" duration="13791000" />
+      <workItem from="1567405210793" duration="1817000" />
+      <workItem from="1567724897818" duration="1879000" />
+      <workItem from="1568181113639" duration="68000" />
+      <workItem from="1568181264213" duration="4296000" />
+      <workItem from="1568269841781" duration="3523000" />
+      <workItem from="1568501360408" duration="33000" />
+      <workItem from="1568501545725" duration="651000" />
+      <workItem from="1568703158956" duration="8477000" />
+      <workItem from="1568872960508" duration="1878000" />
+      <workItem from="1569475960468" duration="22000" />
+      <workItem from="1569476067272" duration="1633000" />
+      <workItem from="1569909028054" duration="7409000" />
+      <workItem from="1571110852256" duration="5194000" />
+      <workItem from="1571193883751" duration="21834000" />
+      <workItem from="1571621874208" duration="925000" />
+      <workItem from="1571631028734" duration="2523000" />
+      <workItem from="1571636385839" duration="3184000" />
+      <workItem from="1571639783800" duration="12000" />
+      <workItem from="1571639871084" duration="1542000" />
+      <workItem from="1571704602901" duration="7067000" />
+      <workItem from="1571726929905" duration="12096000" />
+      <workItem from="1571826463941" duration="1329000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="0" />
+    <option name="LAST_COMMIT_MESSAGE" value="0" />
+  </component>
+</project>

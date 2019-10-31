@@ -31,4 +31,4 @@ context('Waiting', () => {
     cy.wait('@getComment').its('status').should('eq', 200)
   })
 
-})
+});

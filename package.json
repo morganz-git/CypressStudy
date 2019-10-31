@@ -10,5 +10,8 @@
   },
   "cypress-cucumber-preprocessor": {
     "step_definitions": "cypress/integration/Cucumber/EATest/step_definitions"
+  },
+  "scripts": {
+    "cy:run": "cypress run"
   }
 }

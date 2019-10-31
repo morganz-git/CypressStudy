@@ -1,5 +1,4 @@
 {
   "watchForFileChanges": false,
-  "baseUrl": "http://eaapp.somee.com/",
-  "testFiles": "**/*.{feature,features}"
+  "baseUrl": "http://eaapp.somee.com/"
 }
