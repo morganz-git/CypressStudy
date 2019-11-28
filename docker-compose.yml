@@ -1,0 +1,10 @@
+version: '3'
+services:
+  e2e:
+    image: cypress
+    build: .
+    container_name: cypress_demo
+    command: npx cypress run
+    volumes:
+      - /Users/karthikkk/report/:/Users/karthikkk/report/
+

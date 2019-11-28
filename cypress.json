@@ -1,4 +1,5 @@
 {
   "watchForFileChanges": false,
-  "baseUrl": "http://eaapp.somee.com/"
+  "baseUrl": "http://eaapp.somee.com/",
+  "projectId": "2i1aij"
 }
